@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Modern iPhone 15 inspired website using Three.js and GSAP animations.
+# Modern iPhone 15 inspired website using Three.js and GSAP animations
 
 ![Modern iPhone 15 inspired website using Three.js and GSAP animations.](/.github/images/img_main.png "Modern iPhone 15 inspired website using Three.js and GSAP animations.")
 
